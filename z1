@@ -1,0 +1,2 @@
+netsh interface set interface "WI-FI" disable
+netsh interface set interface "WI-FI" enable
